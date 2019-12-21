@@ -1,2 +1,1 @@
-"New prodgek" 
-"New string" 
+Hello, git!
